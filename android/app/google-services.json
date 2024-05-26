@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "127727631385",
+    "project_id": "yemektarifi-903ed",
+    "storage_bucket": "yemektarifi-903ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127727631385:android:6c817dbe85495ec6663e88",
+        "android_client_info": {
+          "package_name": "com.example.yemek_tarifi_uygulama"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAu9sRa9BIH-E6rUtxE-m1Wk_NSNKjHZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
